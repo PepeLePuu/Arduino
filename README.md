@@ -28,3 +28,8 @@ SRAM: 	2 KB
 EEPROM: 	1 KB
 
 Clock Speed: 	16 MHz
+
+Notes
+=====
+
+Multiple pins were tightly stacked meaning removing the LCD module is dangerous.
